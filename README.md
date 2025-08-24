@@ -20,7 +20,7 @@ Proyek ini adalah halaman web portofolio pribadi satu halaman yang saya buat seb
 
 ## Kontak
 Untuk pertanyaan atau kolaborasi, silakan hubungi saya melalui:
-[Email: ](fatimahhawwaalkhansa@gmail.com)
-[Instagram: ](https://instagram.com/ftmhhwwa)
-[GitHub: ](https://github.com/ftmhhwwa)
-[LinkedIn: ](https://id.linkedin.com/in/fatimah-hawwa-alkhansa-b9b6b0259)
+[Email](fatimahhawwaalkhansa@gmail.com)
+[Instagram](https://instagram.com/ftmhhwwa)
+[GitHub](https://github.com/ftmhhwwa)
+[LinkedIn](https://id.linkedin.com/in/fatimah-hawwa-alkhansa-b9b6b0259)
